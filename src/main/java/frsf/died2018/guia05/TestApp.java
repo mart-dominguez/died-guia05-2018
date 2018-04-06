@@ -6,11 +6,7 @@ import frsf.died2018.guia05.rrhh.Contratado;
 import frsf.died2018.guia05.rrhh.Empleado;
 import frsf.died2018.guia05.rrhh.Permanente;
 
-/**
- * Hello world!
- *
- */
-public class App {
+public class TestApp {
 
 	public static void main(String[] args) {
 		Empleado e1 = new Contratado("contrato1",100.0);
